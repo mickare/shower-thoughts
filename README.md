@@ -18,7 +18,7 @@ We humans are storytellers. It helps us to simplify our understanding of the wor
 
 *Date: 2024-11-20*
 
-[![spontaneous synchronization video](http://img.youtube.com/vi/T58lGKREubo/0.jpg)](http://www.youtube.com/watch?v=T58lGKREubo "spontaneous synchronization")
+{% include youtube.html id="T58lGKREubo" %}
 
 **What if** all quantum particles have an electro-magnetic oscillation (like a clock).
 This oscillation is spread by a very small electro-magnetic wave in all directions, so small that it is free of interactions due to a planck constant threshold.
@@ -26,7 +26,7 @@ This oscillation is spread by a very small electro-magnetic wave in all directio
 Particles move due to heat, collisions, interactions, radiation, etc. in a choatic way.
 Because particles move, the oscillations (clocks) between the particles will get out of sync due to special relativity.
 
-This leads to an interference of the oscillation waves between all particles, and in effect all particles will experience [spontaneos synchronization](http://www.youtube.com/watch?v=T58lGKREubo).
+This leads to an interference of the oscillation waves between all particles, and in effect all particles will experience [spontaneos synchronization](https://en.wikipedia.org/wiki/Synchronization_of_chaos).
 A very small force will be applied to all particles, accumulating into a general force that pulls all mass - gravity.
 
 
